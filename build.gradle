@@ -25,7 +25,9 @@ dependencies {
             'org.seleniumhq.selenium:selenium-java:4.24.0',
             'org.seleniumhq.selenium:selenium-chrome-driver:4.24.0',
             'org.assertj:assertj-core:3.26.3',
-            'com.codeborne:selenide:7.4.2'
+            'com.codeborne:selenide:7.4.2',
+            'io.qameta.allure:allure-selenide:2.29.0',
+            'org.apache.pdfbox:pdfbox:2.0.24'
     )
     testRuntimeOnly "org.junit.jupiter:junit-jupiter-engine:5.11.0", 'org.slf4j:slf4j-simple:2.0.5'
 }
