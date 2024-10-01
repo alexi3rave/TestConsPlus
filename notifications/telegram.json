@@ -1,0 +1,15 @@
+{
+  "base": {
+    "project": "$TestConsPlus",
+    "environment": "some env",
+    "comment": "some comment",
+    "language": "ru",
+    "allureFolder": "allure-report/",
+    "enableChart": true
+  },
+  "telegram": {
+    "token": "6378501656:AAEItuntr8-q5ZFRz-Ft_xFDbmn10Z1nfSI",
+    "chat": "199770070",
+    "replyTo": ""
+  }
+}
